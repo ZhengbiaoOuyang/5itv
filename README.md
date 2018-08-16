@@ -22,11 +22,11 @@ php+mysql 二叉树左右值
 by 爱视传媒5itv 20180816
 1517152664@qq.com
 demo: familytree家谱宗谱刘三才族裔刘氏家谱
-demo.5itv.org
+http://demo.5itv.org/index.php
 demo：欧式版式家谱
-demo.5itv.org/os.php
+http://demo.5itv.org/os.php
 demo：塔式版式家谱
-demo.5itv.org/bt.php
+http://demo.5itv.org/bt.php
 电视直播
-www.tvsbar.com
+http://www.tvsbar.com
 
